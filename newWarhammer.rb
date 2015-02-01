@@ -1,3 +1,5 @@
+#Hey this is Kassandra. Cool.
+
 puts "Welcome to Warhammer 40,000: Leviathon Rises"
 
 puts << END 
